@@ -7,6 +7,7 @@ jobs:
       SOURCE_DIR: svg/
       XSLT: lib/fhem-svg.xslt
       ICON_PREFIX: mdt
+      FILES_CACHE: var/files.cache
     runs-on: ubuntu-latest
     steps:
       - name: Prepare system environment
@@ -23,10 +24,12 @@ jobs:
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
       - name: Checkout Repository
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Transform icons
         run: |
-          perl bin/convert-material-fhem -v -x $XSLT -s $SOURCE_DIR -t $OUT_DIR -p $ICON_PREFIX
+          perl bin/convert-material-fhem -v -x $XSLT -s $SOURCE_DIR -t $OUT_DIR -p $ICON_PREFIX -c $FILES_CACHE
         id: transform_icons
       - name: Commit back to the repository
         run: |
@@ -45,20 +48,27 @@ jobs:
       CHANGED_FILE: CHANGED
       CONTROLS_FILE: controls_icons-mdt.txt
       FILES_DIR: www/images/mdt
-      FILES_EXTENSION: .svg
+      FILES_EXTENSIONS: .svg|.txt
+      README_TPL: README.md.tpl
+      README_OUT: README.md
     runs-on: ubuntu-latest
     steps:
       - name: Extract branch name
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
       - name: Checkout Repository
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Create FHEM controlfile
-        uses: fhem/fhem-controls-actions@master
+        uses: fhem/fhem-controls-actions@v2
         with:
           filename: ${{ env.CONTROLS_FILE }}
           directory: ${{ env.FILES_DIR }}
-          extension: ${{ env.FILES_EXTENSION }}
+          extension: ${{ env.FILES_EXTENSIONS }}
+      - name: Update docs
+        run: |
+            sed "s|%%BRANCH%%|${GITHUB_REF#refs/*/}|g" < $README_TPL > $README_OUT
       - name: Create CHANGED
         run: |
           echo "[$(date -Isecond -u)] $(ls -lah $FILES_DIR/*$FILES_EXTENSION | wc -l) files included" > $CHANGED_FILE
@@ -68,7 +78,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git add $CONTROLS_FILE || true
           git add $CHANGED_FILE || true
-          git commit $CONTROLS_FILE $CHANGED_FILE -m "[Auto] $(date -u) added transformed files " || true
+          git add $README_OUT || true
+          git commit $README_OUT $CONTROLS_FILE $CHANGED_FILE -m "[Auto] $(date -u) added transformed files " || true
       - name: Push changed files back to repository
         uses: ad-m/github-push-action@master
         with:
