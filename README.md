@@ -33,10 +33,6 @@ After setting the new icon path, FHEMWEB needs to reread the icons cache. Again,
 
 ``set FHEMWEB rereadicons``
 
-### Using the icons
-
-Every icon is referenced by mdt-_$icon-name_, i.e. the `dog` icon is used by referencing `mdt-dog`.
-
 ## Icons
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
