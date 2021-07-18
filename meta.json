@@ -630,6 +630,32 @@
         "version": "4.0.96"
     },
     {
+        "id": "5FFF2FB6-08B2-4860-ACCF-72D614641882",
+        "name": "account-eye",
+        "codepoint": "F0420",
+        "aliases": [
+            "account-view"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
+    },
+    {
+        "id": "32388085-89F4-4C2C-BE98-1AEBED8F9B95",
+        "name": "account-eye-outline",
+        "codepoint": "F127B",
+        "aliases": [
+            "account-view-outline"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.7.95"
+    },
+    {
         "id": "839928F4-21EA-472B-94A0-C7DFBD6C263A",
         "name": "account-filter",
         "codepoint": "F0936",
@@ -4828,6 +4854,282 @@
         "version": "4.7.95"
     },
     {
+        "id": "656CE7E5-1C31-4428-A609-703A2AA39DA7",
+        "name": "archive-cancel",
+        "codepoint": "F174B",
+        "aliases": [
+            "box-cancel"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "2D1FAE99-E9DD-480C-B144-8B7FC7AB99C4",
+        "name": "archive-cancel-outline",
+        "codepoint": "F174C",
+        "aliases": [
+            "box-cancel-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "03F9B9A5-04B8-4A24-AE38-87BE165BBE35",
+        "name": "archive-check",
+        "codepoint": "F174D",
+        "aliases": [
+            "box-check"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "F5A70DE2-BC31-4FCA-AE8E-5295D2F5DB7B",
+        "name": "archive-check-outline",
+        "codepoint": "F174E",
+        "aliases": [
+            "box-check-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "8DBB6350-60C3-4433-9805-C8AB712950C4",
+        "name": "archive-clock",
+        "codepoint": "F174F",
+        "aliases": [
+            "box-clock",
+            "box-time",
+            "archive-time"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "0087686D-DB93-46D3-AD96-C8BA2F17E0D6",
+        "name": "archive-clock-outline",
+        "codepoint": "F1750",
+        "aliases": [
+            "box-clock-outline",
+            "box-time-outline",
+            "archive-time-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "3B5F3441-7A3E-4CF1-933B-F5FCF801CB8E",
+        "name": "archive-cog",
+        "codepoint": "F1751",
+        "aliases": [
+            "box-cog"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "FD6CA806-C4D6-4D5E-AA3B-4292EE225734",
+        "name": "archive-cog-outline",
+        "codepoint": "F1752",
+        "aliases": [
+            "box-cog-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "6FC882E2-B34D-47ED-8E18-6CD197A0D709",
+        "name": "archive-edit",
+        "codepoint": "F1753",
+        "aliases": [
+            "box-edit"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "18D5853A-26A8-416D-9029-9F216DA3316B",
+        "name": "archive-edit-outline",
+        "codepoint": "F1754",
+        "aliases": [
+            "box-edit-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "82B3AAAD-92D1-4524-98F4-F29AFB1A5BFA",
+        "name": "archive-eye",
+        "codepoint": "F1755",
+        "aliases": [
+            "archive-view",
+            "box-eye",
+            "box-view"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "A61C4171-FA5D-4273-A1F5-72CC6506BE70",
+        "name": "archive-eye-outline",
+        "codepoint": "F1756",
+        "aliases": [
+            "archive-view-outline",
+            "box-eye-outline",
+            "box-view-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "52016536-6E90-4C85-891F-5A9183313497",
+        "name": "archive-lock",
+        "codepoint": "F1757",
+        "aliases": [
+            "box-lock"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "DE180687-AD0B-4DE0-8156-EC22729FE7C3",
+        "name": "archive-lock-open",
+        "codepoint": "F1758",
+        "aliases": [
+            "box-lock-open"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "5128174B-10F3-4057-96AE-4DD993B4317F",
+        "name": "archive-lock-open-outline",
+        "codepoint": "F1759",
+        "aliases": [
+            "box-lock-open-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "E5F9A56B-CB7E-4EEC-B03A-571F9704E32E",
+        "name": "archive-lock-outline",
+        "codepoint": "F175A",
+        "aliases": [
+            "box-lock-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "FDC11926-2947-4451-A7CE-2466D7CB8E07",
+        "name": "archive-marker",
+        "codepoint": "F175B",
+        "aliases": [
+            "archive-location",
+            "box-marker",
+            "box-location"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "8639E3F6-3A01-47DF-9787-F80E273C99A2",
+        "name": "archive-marker-outline",
+        "codepoint": "F175C",
+        "aliases": [
+            "archive-location-outline",
+            "box-marker-outline",
+            "box-location-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "0C3AB42B-5B81-46D3-A4BB-DB367FC99B3F",
+        "name": "archive-minus",
+        "codepoint": "F175D",
+        "aliases": [
+            "box-minus"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "F0B3A03C-4591-4F17-8FD7-CD65BC990596",
+        "name": "archive-minus-outline",
+        "codepoint": "F175E",
+        "aliases": [
+            "box-minus-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "30D759AA-6F1F-463A-9768-8D92F607207F",
+        "name": "archive-music",
+        "codepoint": "F175F",
+        "aliases": [
+            "box-music"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "B039CC1C-A987-4383-874C-587493FD807D",
+        "name": "archive-music-outline",
+        "codepoint": "F1760",
+        "aliases": [
+            "box-music-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "C99E212A-CA2F-4E72-B727-B3B87C17B6B2",
+        "name": "archive-off",
+        "codepoint": "F1761",
+        "aliases": [
+            "box-off"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "6E4F081A-2C98-4B93-B617-F1077839E94E",
+        "name": "archive-off-outline",
+        "codepoint": "F1762",
+        "aliases": [
+            "box-off-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F120E",
@@ -4837,6 +5139,168 @@
         "tags": [],
         "author": "James Coyle",
         "version": "4.6.95"
+    },
+    {
+        "id": "FA4EDA1A-8E9B-47EA-9436-B75CF8BB5B21",
+        "name": "archive-plus",
+        "codepoint": "F1763",
+        "aliases": [
+            "archive-add",
+            "box-plus",
+            "box-add"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "C2898E88-9D7F-44D1-A653-539A4B5481EC",
+        "name": "archive-plus-outline",
+        "codepoint": "F1764",
+        "aliases": [
+            "archive-add-outline",
+            "box-plus-outline",
+            "box-add-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "8BFF742C-7BD5-46C0-B280-0813A2431850",
+        "name": "archive-refresh",
+        "codepoint": "F1765",
+        "aliases": [
+            "box-refresh"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "AFCA7BDE-7A75-4C5E-BC61-32662E4B011C",
+        "name": "archive-refresh-outline",
+        "codepoint": "F1766",
+        "aliases": [
+            "box-refresh-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "F856A6DD-E894-4B78-BE97-4239C01CECF7",
+        "name": "archive-remove",
+        "codepoint": "F1767",
+        "aliases": [
+            "box-remove"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "68E7CD1A-7530-4710-8A10-D9D1CF5EFB7F",
+        "name": "archive-remove-outline",
+        "codepoint": "F1768",
+        "aliases": [
+            "box-remove-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "28C866C2-139E-4AF4-8E3D-F23CFE556B59",
+        "name": "archive-search",
+        "codepoint": "F1769",
+        "aliases": [
+            "box-search"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "6705AD82-194D-411F-8822-EC3DA2379582",
+        "name": "archive-search-outline",
+        "codepoint": "F176A",
+        "aliases": [
+            "box-search-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "1F72C97E-9F21-4096-B59B-CD23519B1367",
+        "name": "archive-settings",
+        "codepoint": "F176B",
+        "aliases": [
+            "box-settings"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "E07DE8F7-F3D7-4FCB-95EC-5D6C52CAFE32",
+        "name": "archive-settings-outline",
+        "codepoint": "F176C",
+        "aliases": [
+            "box-settings-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "08484938-1011-46B2-9756-2C227B9BCAAC",
+        "name": "archive-star",
+        "codepoint": "F176D",
+        "aliases": [
+            "archive-favorite",
+            "box-star",
+            "box-favorite"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "05768C3B-09EA-40A8-AC27-F13F734FBB4A",
+        "name": "archive-star-outline",
+        "codepoint": "F176E",
+        "aliases": [
+            "archive-favorite-outline",
+            "box-star-outline",
+            "box-favorite-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "BCB51994-105E-404E-96D2-1242AEB13CDB",
+        "name": "archive-sync",
+        "codepoint": "F176F",
+        "aliases": [
+            "box-sync"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "BB297982-E355-4AEE-9D17-CD57BDB0625A",
+        "name": "archive-sync-outline",
+        "codepoint": "F1770",
+        "aliases": [
+            "box-sync-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
     },
     {
         "id": "F7613EF8-368F-4AA6-B833-7246A01C3961",
@@ -11688,6 +12152,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9A11CA67-107C-4D0A-A244-34E60B1915A0",
+        "name": "brush-off",
+        "codepoint": "F1771",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.55"
+    },
+    {
         "id": "1024F530-CFE4-4869-BAA4-062593D42DC9",
         "name": "bucket",
         "codepoint": "F1415",
@@ -15370,7 +15843,10 @@
         "id": "98939E5B-1528-4A2F-B35A-C37C60C75D93",
         "name": "chart-arc",
         "codepoint": "F0126",
-        "aliases": [],
+        "aliases": [
+            "report-arc",
+            "widget-arc"
+        ],
         "tags": [
             "Math"
         ],
@@ -15381,7 +15857,11 @@
         "id": "00654F5E-1B8B-4BD7-933B-0BD65B2C9BAC",
         "name": "chart-areaspline",
         "codepoint": "F0127",
-        "aliases": [],
+        "aliases": [
+            "report-areaspline",
+            "widget-areaspline",
+            "graph-areaspline"
+        ],
         "tags": [
             "Math"
         ],
@@ -15392,7 +15872,11 @@
         "id": "C55BFF6F-469B-4D28-835B-537BED8DE99D",
         "name": "chart-areaspline-variant",
         "codepoint": "F0E91",
-        "aliases": [],
+        "aliases": [
+            "report-areaspline-variant",
+            "widget-areaspline-variant",
+            "graph-areaspline-variant"
+        ],
         "tags": [
             "Math"
         ],
@@ -15403,7 +15887,11 @@
         "id": "85D4DC49-5359-4867-A5D1-52C44699387F",
         "name": "chart-bar",
         "codepoint": "F0128",
-        "aliases": [],
+        "aliases": [
+            "report-bar",
+            "widget-bar",
+            "graph-bar"
+        ],
         "tags": [
             "Math"
         ],
@@ -15414,7 +15902,11 @@
         "id": "FAA40519-5517-44DF-AF2E-30D07874BEB7",
         "name": "chart-bar-stacked",
         "codepoint": "F076A",
-        "aliases": [],
+        "aliases": [
+            "report-bar-stacked",
+            "widget-bar-stacked",
+            "graph-bar-stacked"
+        ],
         "tags": [
             "Math"
         ],
@@ -15425,7 +15917,11 @@
         "id": "35760CC7-EBA2-4445-B88B-7E8224535BB7",
         "name": "chart-bell-curve",
         "codepoint": "F0C50",
-        "aliases": [],
+        "aliases": [
+            "report-bell-curve",
+            "widget-bell-curve",
+            "graph-bell-curve"
+        ],
         "tags": [
             "Math"
         ],
@@ -15436,7 +15932,11 @@
         "id": "D4E38BC9-5A85-4890-B3DD-92F3D263E26E",
         "name": "chart-bell-curve-cumulative",
         "codepoint": "F0FA7",
-        "aliases": [],
+        "aliases": [
+            "report-bell-curve-cumulative",
+            "widget-bell-curve-cumulative",
+            "graph-bell-curve-cumulative"
+        ],
         "tags": [
             "Math"
         ],
@@ -15447,7 +15947,12 @@
         "id": "381420B2-B2EE-4E9F-9DEA-EA0C1F92A226",
         "name": "chart-box",
         "codepoint": "F154D",
-        "aliases": [],
+        "aliases": [
+            "poll-box",
+            "report-box",
+            "widget-box",
+            "graph-box"
+        ],
         "tags": [
             "Math"
         ],
@@ -15458,7 +15963,12 @@
         "id": "4115E465-01E5-4F3F-929A-81C239289B21",
         "name": "chart-box-outline",
         "codepoint": "F154E",
-        "aliases": [],
+        "aliases": [
+            "poll-box-outline",
+            "report-box-outline",
+            "widget-box-outline",
+            "graph-box-outline"
+        ],
         "tags": [
             "Math"
         ],
@@ -15469,7 +15979,11 @@
         "id": "2F2AA4D1-DB33-4B54-8052-2A2EFCE59168",
         "name": "chart-box-plus-outline",
         "codepoint": "F154F",
-        "aliases": [],
+        "aliases": [
+            "report-box-plus-outline",
+            "widget-box-plus-outline",
+            "graph-box-plus-outline"
+        ],
         "tags": [
             "Math"
         ],
@@ -15481,7 +15995,9 @@
         "name": "chart-bubble",
         "codepoint": "F05E3",
         "aliases": [
-            "bubble-chart"
+            "bubble-chart",
+            "report-bubble",
+            "widget-bubble"
         ],
         "tags": [
             "Math"
@@ -15495,7 +16011,9 @@
         "codepoint": "F07AF",
         "aliases": [
             "chart-doughnut",
-            "data-usage"
+            "data-usage",
+            "report-donut",
+            "widget-donut"
         ],
         "tags": [
             "Math"
@@ -15508,7 +16026,9 @@
         "name": "chart-donut-variant",
         "codepoint": "F07B0",
         "aliases": [
-            "chart-doughnut-variant"
+            "chart-doughnut-variant",
+            "report-donut-variant",
+            "widget-donut-variant"
         ],
         "tags": [
             "Math"
@@ -15520,7 +16040,12 @@
         "id": "A2839B3A-760A-4061-80CA-41B3FA5817E0",
         "name": "chart-gantt",
         "codepoint": "F066C",
-        "aliases": [],
+        "aliases": [
+            "report-gantt",
+            "timeline",
+            "widget-gantt",
+            "roadmap"
+        ],
         "tags": [
             "Math"
         ],
@@ -15531,7 +16056,11 @@
         "id": "8DCC14D7-057F-4DA4-89B2-B26D6B6F0C00",
         "name": "chart-histogram",
         "codepoint": "F0129",
-        "aliases": [],
+        "aliases": [
+            "report-histogram",
+            "widget-histogram",
+            "graph-histogram"
+        ],
         "tags": [
             "Math"
         ],
@@ -15542,7 +16071,11 @@
         "id": "D996574D-5B42-47C5-91D6-F86555C2FBC5",
         "name": "chart-line",
         "codepoint": "F012A",
-        "aliases": [],
+        "aliases": [
+            "report-line",
+            "widget-line",
+            "graph-line"
+        ],
         "tags": [
             "Math"
         ],
@@ -15553,7 +16086,11 @@
         "id": "B53C0CF7-F923-409F-91C3-420513E44231",
         "name": "chart-line-stacked",
         "codepoint": "F076B",
-        "aliases": [],
+        "aliases": [
+            "report-line-stacked",
+            "widget-line-stacked",
+            "graph-line-stacked"
+        ],
         "tags": [
             "Math"
         ],
@@ -15565,7 +16102,10 @@
         "name": "chart-line-variant",
         "codepoint": "F07B1",
         "aliases": [
-            "show-chart"
+            "show-chart",
+            "report-line-variant",
+            "widget-line-variant",
+            "graph-line-variant"
         ],
         "tags": [
             "Math"
@@ -15577,7 +16117,11 @@
         "id": "746FB7AE-B8AC-4356-8B79-D95F54B410D7",
         "name": "chart-multiline",
         "codepoint": "F08D4",
-        "aliases": [],
+        "aliases": [
+            "report-multiline",
+            "widget-multiline",
+            "graph-multiline"
+        ],
         "tags": [
             "Math"
         ],
@@ -15588,7 +16132,11 @@
         "id": "42E3BF4B-FFE9-449F-AFEE-66F565602A9B",
         "name": "chart-multiple",
         "codepoint": "F1213",
-        "aliases": [],
+        "aliases": [
+            "report-multiple",
+            "widget-multiple",
+            "graph-multiple"
+        ],
         "tags": [
             "Math"
         ],
@@ -15599,7 +16147,11 @@
         "id": "9C6B53C5-698B-4428-9738-A6700BF8698C",
         "name": "chart-pie",
         "codepoint": "F012B",
-        "aliases": [],
+        "aliases": [
+            "report-pie",
+            "widget-pie",
+            "graph-pie"
+        ],
         "tags": [
             "Math"
         ],
@@ -15611,7 +16163,10 @@
         "name": "chart-ppf",
         "codepoint": "F1380",
         "aliases": [
-            "chart-production-possibility-frontier"
+            "chart-production-possibility-frontier",
+            "report-ppf",
+            "widget-ppf",
+            "graph-ppf"
         ],
         "tags": [
             "Math"
@@ -15624,7 +16179,10 @@
         "name": "chart-sankey",
         "codepoint": "F11DF",
         "aliases": [
-            "chart-snakey"
+            "chart-snakey",
+            "report-sankey",
+            "widget-sankey",
+            "graph-sankey"
         ],
         "tags": [
             "Math"
@@ -15637,7 +16195,10 @@
         "name": "chart-sankey-variant",
         "codepoint": "F11E0",
         "aliases": [
-            "chart-snakey-variant"
+            "chart-snakey-variant",
+            "report-sankey-variant",
+            "widget-sankey-variant",
+            "graph-sankey-variant"
         ],
         "tags": [
             "Math"
@@ -15649,7 +16210,11 @@
         "id": "C268C5A5-0D35-4963-9151-61D2C442015B",
         "name": "chart-scatter-plot",
         "codepoint": "F0E92",
-        "aliases": [],
+        "aliases": [
+            "report-scatter-plot",
+            "widget-scatter-plot",
+            "graph-scatter-plot"
+        ],
         "tags": [
             "Math"
         ],
@@ -15661,7 +16226,10 @@
         "name": "chart-scatter-plot-hexbin",
         "codepoint": "F066D",
         "aliases": [
-            "chart-scatterplot-hexbin"
+            "chart-scatterplot-hexbin",
+            "report-scatter-plot-hexbin",
+            "widget-scatter-plot-hexbin",
+            "graph-scatter-plot-hexbin"
         ],
         "tags": [
             "Math"
@@ -15673,7 +16241,12 @@
         "id": "922A0C03-C46D-45E7-8B44-9D53F1292360",
         "name": "chart-timeline",
         "codepoint": "F066E",
-        "aliases": [],
+        "aliases": [
+            "report-timeline",
+            "widget-timeline",
+            "graph-timeline",
+            "roadmap"
+        ],
         "tags": [
             "Math"
         ],
@@ -15684,7 +16257,14 @@
         "id": "F41D980A-439A-4F1B-A3B7-850EB1A70416",
         "name": "chart-timeline-variant",
         "codepoint": "F0E93",
-        "aliases": [],
+        "aliases": [
+            "report-timeline-variant",
+            "widget-timeline-variant",
+            "graph-timeline-variant",
+            "report-line",
+            "widget-line",
+            "graph-line"
+        ],
         "tags": [
             "Math"
         ],
@@ -15695,7 +16275,14 @@
         "id": "F2256261-8218-48B2-BACA-9E23E42EEC15",
         "name": "chart-timeline-variant-shimmer",
         "codepoint": "F15B6",
-        "aliases": [],
+        "aliases": [
+            "report-timeline-variant-shimmer",
+            "widget-timeline-variant-shimmer",
+            "graph-timeline-variant-shimmer",
+            "report-line-shimmer",
+            "widget-line-shimmer",
+            "graph-line-shimmer"
+        ],
         "tags": [],
         "author": "Google",
         "version": "5.6.55"
@@ -15704,7 +16291,10 @@
         "id": "B7E7AEAC-4A67-4C0F-8A4C-C0955AE5F655",
         "name": "chart-tree",
         "codepoint": "F0E94",
-        "aliases": [],
+        "aliases": [
+            "report-tree",
+            "widget-tree"
+        ],
         "tags": [
             "Math"
         ],
@@ -15902,27 +16492,6 @@
         "tags": [],
         "author": "Michael Richins",
         "version": "3.6.95"
-    },
-    {
-        "id": "E0A0FF12-A5AD-40E3-B286-8958154F0537",
-        "name": "check-box-multiple-outline",
-        "codepoint": "F0C51",
-        "aliases": [
-            "check-boxes-outline",
-            "tick-box-multiple-outline"
-        ],
-        "tags": [],
-        "author": "Michael Richins",
-        "version": "3.2.89"
-    },
-    {
-        "id": "EA5B8CC8-FFD6-4128-AC25-DEDCF1097A34",
-        "name": "check-box-outline",
-        "codepoint": "F0C52",
-        "aliases": [],
-        "tags": [],
-        "author": "Michael Richins",
-        "version": "3.2.89"
     },
     {
         "id": "93D7B6DC-17D2-4A2B-B787-79E2E8BEF304",
@@ -16301,6 +16870,27 @@
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
+    },
+    {
+        "id": "E0A0FF12-A5AD-40E3-B286-8958154F0537",
+        "name": "checkbox-multiple-outline",
+        "codepoint": "F0C51",
+        "aliases": [
+            "check-boxes-outline",
+            "tick-box-multiple-outline"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "3.2.89"
+    },
+    {
+        "id": "EA5B8CC8-FFD6-4128-AC25-DEDCF1097A34",
+        "name": "checkbox-outline",
+        "codepoint": "F0C52",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "3.2.89"
     },
     {
         "id": "A5F7D4AF-C7A3-4F38-B21B-B9F3E68770DE",
@@ -17118,7 +17708,8 @@
         "codepoint": "F09DF",
         "aliases": [
             "bullet",
-            "multiplication"
+            "multiplication",
+            "dot"
         ],
         "tags": [
             "Math"
@@ -27411,7 +28002,8 @@
         "name": "file-chart",
         "codepoint": "F0215",
         "aliases": [
-            "file-report"
+            "file-report",
+            "file-graph"
         ],
         "tags": [
             "Files \/ Folders"
@@ -27423,7 +28015,10 @@
         "id": "E8F550E7-DE55-47CE-B548-4B6987B9FDE7",
         "name": "file-chart-outline",
         "codepoint": "F1029",
-        "aliases": [],
+        "aliases": [
+            "file-graph-outline",
+            "file-report-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
@@ -27840,6 +28435,28 @@
         "version": "1.5.54"
     },
     {
+        "id": "5E5F502C-C492-45EC-886C-CC55C6E4C504",
+        "name": "file-image-marker",
+        "codepoint": "F1772",
+        "aliases": [
+            "file-image-location"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "BE46BBCE-2872-4DBE-976E-AC9BC2CE19D3",
+        "name": "file-image-marker-outline",
+        "codepoint": "F1773",
+        "aliases": [
+            "file-image-location-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "C86DDD85-B79F-43C4-9497-839FF4BD7526",
         "name": "file-image-outline",
         "codepoint": "F0EB0",
@@ -27939,6 +28556,28 @@
         ],
         "author": "Terren",
         "version": "4.1.95"
+    },
+    {
+        "id": "C6C876E6-1A2C-4776-9A4C-5114EF50D3DA",
+        "name": "file-marker",
+        "codepoint": "F1774",
+        "aliases": [
+            "file-location"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "96A7C92B-3EDA-40C8-B21D-45355968345C",
+        "name": "file-marker-outline",
+        "codepoint": "F1775",
+        "aliases": [
+            "file-location-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
     },
     {
         "id": "BB72067F-4002-409B-BD46-6FD6F9CEBA51",
@@ -28874,7 +29513,9 @@
         "name": "finance",
         "codepoint": "F081F",
         "aliases": [
-            "chart-finance"
+            "chart-finance",
+            "report-finance",
+            "graph-bar"
         ],
         "tags": [
             "Banking",
@@ -29157,8 +29798,12 @@
         "id": "B7386AC8-4DBF-4948-AD45-49234A8A019B",
         "name": "flag-checkered",
         "codepoint": "F023C",
-        "aliases": [],
-        "tags": [],
+        "aliases": [
+            "goal"
+        ],
+        "tags": [
+            "Sport"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
@@ -30058,6 +30703,24 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.5.94"
+    },
+    {
+        "id": "D36D03A5-01AD-4F0B-9C63-ACA149117B73",
+        "name": "folder-eye",
+        "codepoint": "F178A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
+        "id": "7589978B-4D0B-4C1E-965A-38B5077BB7E1",
+        "name": "folder-eye-outline",
+        "codepoint": "F178B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
     },
     {
         "id": "B8ACEEFF-E80A-42A9-BCAE-A804D47D8929",
@@ -31505,7 +32168,8 @@
         "name": "format-horizontal-align-center",
         "codepoint": "F061E",
         "aliases": [
-            "format-horizontal-align-centre"
+            "format-horizontal-align-centre",
+            "arrow-horizontal-collapse"
         ],
         "tags": [
             "Text \/ Content \/ Format"
@@ -32182,7 +32846,8 @@
         "name": "format-vertical-align-center",
         "codepoint": "F0622",
         "aliases": [
-            "format-vertical-align-centre"
+            "format-vertical-align-centre",
+            "arrow-vertical-collapse"
         ],
         "tags": [
             "Text \/ Content \/ Format"
@@ -34825,6 +35490,74 @@
         "version": "1.7.12"
     },
     {
+        "id": "15C2280B-B4C8-436A-8D57-80FFD3C4FB62",
+        "name": "hamburger-check",
+        "codepoint": "F1776",
+        "aliases": [
+            "burger-check"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "CCD3F888-3CB7-4FB2-AB04-E7D8F803ABE9",
+        "name": "hamburger-minus",
+        "codepoint": "F1777",
+        "aliases": [
+            "burger-minus"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "540219BD-FDFC-484B-8ACC-D75760F31FD7",
+        "name": "hamburger-off",
+        "codepoint": "F1778",
+        "aliases": [
+            "burger-off",
+            "fast-food-off",
+            "food-off"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "AD90D2EE-E142-45C3-977E-4D8299E12930",
+        "name": "hamburger-plus",
+        "codepoint": "F1779",
+        "aliases": [
+            "burger-plus",
+            "burger-add"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "52F5DBCE-78B0-49ED-BBDB-73B8F34084A0",
+        "name": "hamburger-remove",
+        "codepoint": "F177A",
+        "aliases": [
+            "burger-remove"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "A3F55E77-82C2-48F6-B1B1-92C9259C9C26",
         "name": "hammer",
         "codepoint": "F08EA",
@@ -36240,7 +36973,8 @@
         "codepoint": "F0EBA",
         "aliases": [
             "chart-home",
-            "home-chart"
+            "home-chart",
+            "home-report"
         ],
         "tags": [
             "Home Automation"
@@ -37896,6 +38630,28 @@
         "version": "3.6.95"
     },
     {
+        "id": "39EFA2D6-FC32-491C-8ABE-384AA47B94D3",
+        "name": "image-marker",
+        "codepoint": "F177B",
+        "aliases": [
+            "image-location"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "754F7051-3979-499F-B7E6-9513619D7609",
+        "name": "image-marker-outline",
+        "codepoint": "F177C",
+        "aliases": [
+            "image-location-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "ED40AC55-00BA-4086-8906-1FA1EDA65839",
         "name": "image-minus",
         "codepoint": "F1419",
@@ -38242,6 +38998,24 @@
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "68E3EA61-207C-444B-9CC5-8A7016D9953C",
+        "name": "information-off",
+        "codepoint": "F178C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
+        "id": "25B8EEBF-60AA-422C-8E9C-E8D6004E9614",
+        "name": "information-off-outline",
+        "codepoint": "F178D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
     },
     {
         "id": "F7C01A96-16E0-44C0-A261-2CF22D056A7F",
@@ -46493,6 +47267,88 @@
         "version": "1.5.54"
     },
     {
+        "id": "1673B5E0-CB7A-4430-9D36-9B42F1189D4F",
+        "name": "note-alert",
+        "codepoint": "F177D",
+        "aliases": [
+            "paper-alert",
+            "sticky-note-alert",
+            "post-it-note-alert"
+        ],
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "52710BFA-E892-49B7-9157-8C9A5E08BC21",
+        "name": "note-alert-outline",
+        "codepoint": "F177E",
+        "aliases": [
+            "paper-alert-outline",
+            "post-it-note-alert-outline",
+            "sticky-note-alert-outline"
+        ],
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "A4B7F3B4-25B2-4786-A02F-FDA4F963E580",
+        "name": "note-check",
+        "codepoint": "F177F",
+        "aliases": [
+            "paper-check",
+            "sticky-note-check",
+            "post-it-note-check"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "827B10E4-F154-4101-BB5C-492EA37B7D08",
+        "name": "note-check-outline",
+        "codepoint": "F1780",
+        "aliases": [
+            "paper-check-outline",
+            "sticky-note-check-outline",
+            "post-it-note-check-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "80075448-6EB3-4318-9887-6C199DB9A86E",
+        "name": "note-edit",
+        "codepoint": "F1781",
+        "aliases": [
+            "paper-edit",
+            "sticky-note-edit",
+            "post-it-note-edit"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "DD82356F-AF1D-4A08-A740-880F31AE563D",
+        "name": "note-edit-outline",
+        "codepoint": "F1782",
+        "aliases": [
+            "paper-edit-outline",
+            "sticky-note-edit-outline",
+            "post-it-note-edit-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "5F9984C8-D7D1-42A8-9167-52B0B849CF22",
         "name": "note-minus",
         "codepoint": "F164F",
@@ -46545,6 +47401,32 @@
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.7.22"
+    },
+    {
+        "id": "9EE3CDDD-BFF7-4BCF-B07E-B120D646DE0D",
+        "name": "note-off",
+        "codepoint": "F1783",
+        "aliases": [
+            "paper-off",
+            "sticky-note-off",
+            "post-it-note-off"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "321C9AFB-4A83-4B8F-A361-ADFA32318258",
+        "name": "note-off-outline",
+        "codepoint": "F1784",
+        "aliases": [
+            "paper-off-outline",
+            "sticky-note-off-outline",
+            "post-it-note-off-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
     },
     {
         "id": "DD6D5075-A7F5-4183-9F99-93C295F18B0B",
@@ -46673,7 +47555,8 @@
         "codepoint": "F082E",
         "aliases": [
             "journal",
-            "planner"
+            "planner",
+            "diary"
         ],
         "tags": [],
         "author": "Contributors",
@@ -51483,32 +52366,14 @@
         "name": "poll",
         "codepoint": "F041F",
         "aliases": [
-            "bar-chart"
+            "bar-chart",
+            "report",
+            "performance",
+            "analytics"
         ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
-    },
-    {
-        "id": "5FFF2FB6-08B2-4860-ACCF-72D614641882",
-        "name": "poll-box",
-        "codepoint": "F0420",
-        "aliases": [
-            "assessment",
-            "insert-chart"
-        ],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
-        "id": "32388085-89F4-4C2C-BE98-1AEBED8F9B95",
-        "name": "poll-box-outline",
-        "codepoint": "F127B",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "4.7.95"
     },
     {
         "id": "5ACE4E72-9576-405A-A17F-314A1FF864C8",
@@ -52117,6 +52982,24 @@
         "version": "3.6.95"
     },
     {
+        "id": "6AE8D5BF-CEFD-40DD-A764-9C9FFE38A003",
+        "name": "printer-off-outline",
+        "codepoint": "F1785",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
+        "id": "514C36A5-3B40-4493-A1CE-275B9C482012",
+        "name": "printer-outline",
+        "codepoint": "F1786",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
         "id": "F9D30BAE-7AF6-4C02-83AD-18045895B8B0",
         "name": "printer-pos",
         "codepoint": "F1057",
@@ -52249,6 +53132,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "2434DDA0-2B39-428D-9764-E8F9A46BF22F",
+        "name": "progress-pencil",
+        "codepoint": "F1787",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.55"
+    },
+    {
         "id": "DBF80F38-9B3D-4390-B366-51827F97CC0F",
         "name": "progress-question",
         "codepoint": "F1522",
@@ -52256,6 +53148,15 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
+    },
+    {
+        "id": "FF05067C-B5B4-48B1-B63C-75D3CBB24E45",
+        "name": "progress-star",
+        "codepoint": "F1788",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.55"
     },
     {
         "id": "699B5A10-1C4C-448C-A3F4-36A3CACD82EA",
@@ -55218,6 +56119,17 @@
         ],
         "author": "Nick",
         "version": "2.2.43"
+    },
+    {
+        "id": "AA9C348E-83F3-4EC8-87D5-0E7C8BAAA2DB",
+        "name": "sausage-off",
+        "codepoint": "F1789",
+        "aliases": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Contributors",
+        "version": "6.0.55"
     },
     {
         "id": "65F29350-AC15-4F53-B3D0-B7304BA8791A",
