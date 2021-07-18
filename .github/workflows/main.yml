@@ -76,6 +76,7 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull
           git add $CONTROLS_FILE || true
           git add $CHANGED_FILE || true
           git add $README_OUT || true
