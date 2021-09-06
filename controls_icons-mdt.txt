@@ -352,7 +352,7 @@ UPD 2021-01-03_16:18:35 415    www/images/mdt/mdt-apple-keyboard-option.svg
 UPD 2021-01-03_16:18:35 426    www/images/mdt/mdt-apple-keyboard-shift.svg
 UPD 2021-01-03_16:18:35 841    www/images/mdt/mdt-apple-safari.svg
 UPD 2021-01-03_16:18:35 871    www/images/mdt/mdt-apple.svg
-UPD 2021-01-03_16:18:35 1242   www/images/mdt/mdt-application-cog.svg
+UPD 2021-01-03_16:18:35 1246   www/images/mdt/mdt-application-cog.svg
 UPD 2021-01-03_16:18:35 557    www/images/mdt/mdt-application-export.svg
 UPD 2021-01-03_16:18:35 535    www/images/mdt/mdt-application-import.svg
 UPD 2021-01-03_16:18:35 496    www/images/mdt/mdt-application-settings.svg
